@@ -1,5 +1,5 @@
 #include<stdio.h>
-#inlcude<conio.h>
+#include<conio.h>
 int main()
 {
 int a,b,sum;
